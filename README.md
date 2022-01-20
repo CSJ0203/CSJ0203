@@ -15,7 +15,7 @@
 [![JS](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/CSJ0203/React)
 [![JS](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](github.com/CSJ0203/React)  
 [![JS](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black)](github.com/CSJ0203/React)
-[![JS](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black)](github.com/CSJ0203/React)
+[![JS](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)](github.com/CSJ0203/React)
 [![JS](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=black)](github.com/CSJ0203/React)
 [![JS](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black)](CSJ0203/Docker)
 [![JS](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=black)](CSJ0203/Docker)  
