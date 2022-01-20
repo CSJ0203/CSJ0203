@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=야매%20그%20자체%20&fontSize=80)
+
+
+[![JS](https://img.shields.io/badge/JavaScript(ECMA6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/CSJ0203/FRONT-ECMA6)
+[![JS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List)
+
+
 <!--
 **CSJ0203/CSJ0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
