@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=야매%20그%20자체%20😘&fontSize=80)  
@@ -31,7 +31,7 @@
 **CSJ0203/CSJ0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
