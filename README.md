@@ -1,7 +1,10 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=야매%20그%20자체%20😘&fontSize=80)  
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=야매%20그%20자체%20😘&fontSize=80) -->  
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=😘&fontSize=80)    
   
 ## 🌱 t e c h 🌱
   
